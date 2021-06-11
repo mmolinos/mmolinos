@@ -26,7 +26,6 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmolinos&show_icons=true" alt="mmolinos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmolinos&layout=compact&hide=html" alt="mmolinos" />
 
 
 <p align="center">
