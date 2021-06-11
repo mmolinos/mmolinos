@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on **Telefónica I+D**
 
-- 📫 How to reach me **manuelmolinoscrespo@gmail.com**
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmolinos&show_icons=true" alt="mmolinos" />
 
 **Languages and Tools**
 <p align="center">
@@ -26,9 +25,13 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmolinos&show_icons=true" alt="mmolinos" />
 
 
+**Contact**
+
+<p align="left">
+	<a href="mailto:manuelmolinoscrespo@gmail.com" target="blank">📫</a>
+</p>
 <p align="center">
 	<a href="https://linkedin.com/in/manuel-molinos-crespo-86a44399" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel-molinos-crespo-86a44399" height="30" width="30" />
