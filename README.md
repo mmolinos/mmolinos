@@ -14,6 +14,8 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 	<img src="https://openviewpartners.com/wp-content/uploads/2020/08/buildkite-logo-on-light-f8027386.png" alt="buildkite" width="120" height="40"/>
+</p>
+<p align="center">
 	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/>
@@ -21,7 +23,6 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="redis" width="80" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/2560px-Scala-full-color.svg.png" alt="scala" width="80" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </p>
 
 
