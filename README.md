@@ -18,7 +18,7 @@
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/>
 	<img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" alt="postgresql" width="40" height="40"/>
-	<img src="http://clipart-library.com/image_gallery2/Python-Logo-PNG.png" alt="python" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="redis" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/2560px-Scala-full-color.svg.png" alt="scala" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
