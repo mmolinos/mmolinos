@@ -13,7 +13,7 @@
 	<img src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1" alt="kong" width="40" height="40"/>
 	<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-	<img src="https://openviewpartners.com/wp-content/uploads/2020/08/buildkite-logo-on-light-f8027386.png" alt="buildkite" width="40" height="40"/>
+	<img src="https://openviewpartners.com/wp-content/uploads/2020/08/buildkite-logo-on-light-f8027386.png" alt="buildkite" width="80" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/>
