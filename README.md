@@ -28,7 +28,7 @@
 
 
 **Contact**
-<p align="center" style="padding: 10px 0; justify-content: space-between;">
+<p align="center" style="padding: 40px 0; justify-content: space-between;">
 	<a href="mailto:manuelmolinoscrespo@gmail.com" target="blank">📫</a>
 	<a href="https://linkedin.com/in/manuel-molinos-crespo-86a44399" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel-molinos-crespo-86a44399" height="30" width="30" />
