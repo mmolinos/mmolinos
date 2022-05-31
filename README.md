@@ -6,22 +6,20 @@
 
 **Languages and Tools**
 <p align="center">
-	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-	<img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
-	<img src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1" alt="kong" width="40" height="40"/>
-	<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-	<img src="https://openviewpartners.com/wp-content/uploads/2020/08/buildkite-logo-on-light-f8027386.png" alt="buildkite" width="120" height="40"/>
+	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
+	<img style="padding: 10px;" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
+        <img style="padding: 10px;" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1" alt="kong" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" alt="spring" width="60" height="40"/>
 </p>
 <p align="center">
-	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-	<img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/>
-	<img src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" alt="postgresql" width="40" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="redis" width="80" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/2560px-Scala-full-color.svg.png" alt="scala" width="80" height="40"/>
+	<img style="padding: 10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" alt="postgresql" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" width="80" height="40"/>
+	<img style="padding: 10px;" src="https://www.cprime.com/wp-content/uploads/2021/09/Apache-Kafka-Tutorial-Image-1-copy.png" alt="kafka" width="80" height="40"/>
 </p>
 
 
