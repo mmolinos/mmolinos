@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Telefónica I+D**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmolinos&show_icons=true" alt="mmolinos" />
-
 **Languages and Tools**
 <p align="center">
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
