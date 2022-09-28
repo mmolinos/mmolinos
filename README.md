@@ -7,6 +7,7 @@
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
 	<img style="padding: 10px;" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
         <img style="padding: 10px;" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="lua" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1" alt="kong" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" alt="spring" width="60" height="40"/>
