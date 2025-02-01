@@ -1,6 +1,6 @@
-<h3 align="left">Hi there, I'm a backend developer from Spain 👋</h3>
+<h3 align="left">Hi there, I'm a Tech Lead from Spain 👋</h3>
 
-- 🔭 I’m currently working on **Telefónica I+D**
+- 🔭 I’m currently working on **Coverwallet**
 
 **Languages and Tools**
 <p align="center">
