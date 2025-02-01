@@ -5,7 +5,7 @@
 **Languages and Tools**
 <p align="center">
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
-	<img style="padding: 10px;" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/>
         <img style="padding: 10px;" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="lua" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1" alt="kong" width="40" height="40"/>
